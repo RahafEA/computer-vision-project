@@ -1,4 +1,9 @@
+Team Members:
 
+Rana Yasser
+Rahaf Ehab
+Ahmed Amr
+Mahmoud Khamis
 
 ## Computer Vision Project
 - Image processing (Pillow + OpenCV)
