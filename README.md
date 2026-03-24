@@ -1,1 +1,7 @@
-# computer-vision-project
+
+
+## Computer Vision Project
+- Image processing (Pillow + OpenCV)
+- Harris Corner Detection
+- Image Segmentation (Otsu, K-Means, GrabCut)
+- CNN vs MLP classification (tomatoes vs peppers)
